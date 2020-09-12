@@ -5,7 +5,9 @@ React is a fantastic framework for modularizing Javascript projects and here Iâ€
 
 All the code for this can be found [here](https://github.com/NiallMcGinness/react-tensorflow-quickstart) but the main secret is just to import TensorFlow :
 
+```js
 import * as tf from '@tensorflow/tfjs';
+```
 
 From here we can start creating and manipulating tensors with all the utilities given to us by the TensorFlow team, see their [documentation](https://js.tensorflow.org/api/2.3.0/) 
 
